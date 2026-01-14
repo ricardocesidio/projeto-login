@@ -47,3 +47,12 @@
     }
 }
     
+div#formulario > h1 {
+    text-align: center;
+    margin-bottom: 3.0em;
+
+}
+
+div#formulario > p {
+    font-size: 1.2em;
+}
