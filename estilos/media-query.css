@@ -7,18 +7,25 @@
 
     section#login {
         width: 80vw;
+        height: 280px;
+        
     }
 
     section#login > div#imagem {
         float: left;
         width: 30%;
         height: 100%;
+        
+        
     }
     
     section#login > div#formulario {
         float: right;
         width: 70%;
+        margin-top: -17%;
+        
     }
+
 
 }
 
@@ -31,30 +38,36 @@
 
     
     section#login {
-        width: 990px;
+        
+        width: 950px;
 
     }
 
     section#login > div#imagem {
-        float: left;
+        float: right;
         width: 50%;
         height: 100%;
     }
 
     section#login > div#formulario {
-        float: right;
+        float: left;
         width: 50%;
     }
 }
     
 div#formulario > h1 {
+    padding-top: 20%;
     text-align: center;
-    margin-bottom: 3.0em;
+    margin-bottom: 1em;
 
 }
 
 div#formulario > p {
     font-size: 1.2em;
+    font-size: 1.2em;
+    text-align: center;
+    padding-bottom: 10px;
 }
+
 
 
